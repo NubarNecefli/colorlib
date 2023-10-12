@@ -1,0 +1,36 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+section {
+  position: relative;
+  width: 100%;
+  height: 100vh;
+}
+
+div .img1 {
+  position: absolute;
+  right: 60px;
+  margin-top: 20px;
+}
+
+.container .text1 {
+  margin-bottom: 80px;
+  gap: 50px;
+}
+.container .img2 {
+  width: 50px;
+  height: 50px;
+  float: left;
+  margin-right: 10px;
+}
+.container .img2 .text2 {
+  float: left;
+}
+.container .img3 {
+  width: 50px;
+  height: 50px;
+  margin-bottom: 40px;
+}
